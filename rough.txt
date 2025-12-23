@@ -1,0 +1,4 @@
+srivastavashantam_db_user
+akCqls4VAC0GrvMU
+
+mongodb+srv://srivastavashantam_db_user:<db_password>@cluster0.ryzyvpk.mongodb.net/?appName=Cluster0
