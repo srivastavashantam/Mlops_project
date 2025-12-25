@@ -1,2 +1,0 @@
-[ 2025-12-23 22:50:29,387 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
-[ 2025-12-23 22:50:29,390 ] root - ERROR - Error occurred in python script: [C:\Users\sriva\Downloads\Data_Science\MLOps\9-MLOps_project\Mlops_project\demo.py] at line number [18]: unsupported operand type(s) for +: 'int' and 'str'
